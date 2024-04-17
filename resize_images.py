@@ -1,6 +1,7 @@
 import os
 import glob
 import cv2
+import matplotlib
 
 if __name__ == "__main__":
     import argparse

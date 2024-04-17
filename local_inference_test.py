@@ -11,6 +11,7 @@ import sys
 import tarfile
 import tensorflow as tf
 import zipfile
+import cv2, matplotlib
 
 from collections import defaultdict
 from io import StringIO
